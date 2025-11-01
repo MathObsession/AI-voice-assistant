@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Voice Assistant",
+  "description": "A visually stunning voice assistant powered by the Gemini 2.5 Native Audio (Live API). Engage in real-time, natural conversations with a cutting-edge AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
